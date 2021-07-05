@@ -35,8 +35,19 @@ text-align:left;}
 }
 #image-one{width:100%;}
 #image-two{width: 95%;}
+#writtings{text-align: center;}
 h1{font-size: 35px;}
-#about-me{text-align:left;
+.using-height{text-align:left;
 line-height: 30px;}
-
-
+.my-recipies{text-align: center;}
+.third{display: flex;
+padding: 5%;
+}
+.recipies{ border-radius: 8%;
+border: 5px light ;
+padding: 20px;
+margin: 30px;
+box-shadow:1px 1px 40px rgba(128, 128, 128, 0.322);
+}
+.recipies-image{width: 300px;
+border-radius: 5%;}
