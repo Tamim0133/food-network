@@ -67,4 +67,20 @@ footer{border: 5px solid;
     background-color: rgba(0, 0, 0, 0.986);
     text-align: center;
 }
+h2{text-align: center;
+color: orangered;}
 #network{color:gray}
+.online-class{display: flex;
+border: 10px light;
+padding: 1%;
+margin: 2% 15% 0% 15%;
+border-radius: 5px;
+box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.513);
+background-image: url(images/shapes/Group\ 8449.png);
+background-repeat: no-repeat;
+background-position:left;
+}
+#teacher-info{width: 250px;}
+.teacher{padding-left: 15%;}
+
+
