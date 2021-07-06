@@ -73,7 +73,7 @@ color: orangered;}
 .online-class{display: flex;
 border: 10px light;
 padding: 1%;
-margin: 2% 15% 0% 15%;
+margin: 2% 15% 15% 15%;
 border-radius: 5px;
 box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.513);
 background-image: url(images/shapes/Group\ 8449.png);
@@ -82,5 +82,11 @@ background-position:left;
 }
 #teacher-info{width: 250px;}
 .teacher{padding-left: 15%;}
-
-
+.television{display: flex;
+margin: 15px;
+}
+.tv-programme{padding-left: 7%;
+background-image: url(images/shapes/Group\ 8446.png);
+background-repeat: no-repeat;
+background-position:right;}
+#host-title{text-align: center;}
